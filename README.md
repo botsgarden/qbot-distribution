@@ -71,5 +71,10 @@ You have to create a webhook in the settings tab of you repository
 
 > WIP
 
+## Add features to QBot
+
+- You just have to create a Vert-x microservice
+- See an example here: https://github.com/botsgarden/qbot-ms-yo
+
 
 
