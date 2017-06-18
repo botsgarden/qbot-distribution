@@ -51,6 +51,9 @@ You have to create a webhook in the settings tab of you repository
 - secret: `not implemented` | 🚧 *WIP*
 - select individual events: issues and issue comment
 
+:warning: **You have to invite the bot in your repository**
+
+
 #### GitBucket
 
 - Same procedure as GitHub
